@@ -400,6 +400,11 @@
       (net 6 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 7fdcf599-9e05-44aa-8144-cfebbed54d37))
     (pad "3" thru_hole circle (at 2.55 0.6625 270) (size 2.055 2.055) (drill 1.37) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-K)") (pinfunction "OUT") (pintype "power_out") (tstamp de03b2d1-23fe-4dcd-87d9-5997d2beb9e0))
+    (model "${KIPRJMOD}/components/L7805/L7805.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" (layer "F.Cu")
