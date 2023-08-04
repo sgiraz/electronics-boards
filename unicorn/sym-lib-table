@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L7805")(type "KiCad")(uri "${KIPRJMOD}/components/L7805/L7805.kicad_sym")(options "")(descr ""))
+)
