@@ -1,0 +1,19 @@
+name: ⚙️ Task
+description: Template to create a new task
+body:
+- type: textarea
+  attributes:
+    label: Task description
+    placeholder: |
+      Write here a meaningful description of the task
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Definition of Done
+    placeholder: |
+      - [ ] task 1
+      - [ ] task 2
+      - [ ] ...
+  validations:
+    requiered: true
