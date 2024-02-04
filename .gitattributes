@@ -1,0 +1,35 @@
+# -------------------------------------------------
+# electronics-boards repository .gitattributes
+# -------------------------------------------------
+*.pptx filter=lfs diff=lfs merge=lfs
+*.doc filter=lfs diff=lfs merge=lfs
+*.docx filter=lfs diff=lfs merge=lfs
+*.xls filter=lfs diff=lfs merge=lfs
+*.xlsx filter=lfs diff=lfs merge=lfs
+*.pdf filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.1 filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.cab filter=lfs diff=lfs merge=lfs -text
+*.bmt filter=lfs diff=lfs merge=lfs -text
+# upper-case extensions for Windows
+*.PPTX filter=lfs diff=lfs merge=lfs
+*.DOC filter=lfs diff=lfs merge=lfs
+*.DOCX filter=lfs diff=lfs merge=lfs
+*.XLS filter=lfs diff=lfs merge=lfs
+*.XLSX filter=lfs diff=lfs merge=lfs
+*.PDF filter=lfs diff=lfs merge=lfs
+*.JPG filter=lfs diff=lfs merge=lfs -text
+*.BIN filter=lfs diff=lfs merge=lfs -text
+*.RAR filter=lfs diff=lfs merge=lfs -text
+*.ZIP filter=lfs diff=lfs merge=lfs -text
+*.PNG filter=lfs diff=lfs merge=lfs -text
+*.MP4 filter=lfs diff=lfs merge=lfs -text
+*.EXE filter=lfs diff=lfs merge=lfs -text
+*.CAB filter=lfs diff=lfs merge=lfs -text
+*.BMT filter=lfs diff=lfs merge=lfs -text
