@@ -4,7 +4,7 @@
 
 The Unicorn Board, designed by Simone Girardi in 2022, is a compact, Arduino-like programmable board. It's equipped with service LEDs for TX and RX, making it a versatile tool for various microcontroller projects.
 
-![Unicorn Board](./img/unicorn.png)
+![Unicorn Board](./assets/unicorn.png)
 
 ## Features
 
